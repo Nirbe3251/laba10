@@ -12,4 +12,4 @@
 
 
 
-Ссылка: https://www.overleaf.com/project/625e7caf2e9d67f5f5d0355a
+Ссылка:[GitHub](https://www.overleaf.com/project/625e7caf2e9d67f5f5d0355a)
